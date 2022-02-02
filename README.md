@@ -1,5 +1,17 @@
 ### Hi There 
 
+My name is Andrew, I work on a variety of projects for learning, hobbying, and other stuff.
+
+## Tools and Languages
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6bed9d)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6bed9d)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6bed9d)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6bed9d)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=6bed9d)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=6bed9d)
+![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6bed9d)
+
+
 <!--
 **AndrewLao/AndrewLao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
