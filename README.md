@@ -1,5 +1,4 @@
-### Hi There ![image](https://user-images.githubusercontent.com/43099770/152236774-22c8055e-0ae1-4e81-8b9b-2362777f3ef0.png)
-
+### Hi There 
 
 <!--
 **AndrewLao/AndrewLao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
