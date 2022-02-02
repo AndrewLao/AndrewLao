@@ -1,6 +1,6 @@
 ### Hi There 
 
-My name is Andrew, I work on a variety of projects for learning, hobbying, and other stuff.
+My name's Andrew, I work on a variety of projects for learning, hobbying, and other stuff.
 
 ## Tools and Languages
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=8fb229)
