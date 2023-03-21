@@ -1,6 +1,6 @@
 ### Hi There 
 
-My name's Andrew, I work on a variety of projects mostly for school work and learning.
+My name's Andrew, I work on a variety of projects mostly for schoolwork and learning.
 
 ## Tools and Languages
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=8fb229)
