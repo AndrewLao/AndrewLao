@@ -1,6 +1,6 @@
 ### Hi There 
 
-My name's Andrew, I work on a variety of projects mostly web related.
+My name's Andrew, I work on a variety of projects mostly web and automation related.
 
 ## Most Used Tools and Languages
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=spring&logoColor=white&color=8fb229)
